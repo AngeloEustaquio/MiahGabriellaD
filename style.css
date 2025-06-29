@@ -1,0 +1,78 @@
+ .container {
+    position: absolute;
+        background: rgb(91, 88, 88);
+        width: 20%;
+        height: 220px;
+        padding: 30px;
+        border-radius: 20px;   
+        top: 50%;
+        left: 50%;
+        transform: translate( -50%, -50%);
+    }
+input {   
+    width: 290px;
+    height: 27px;
+    margin:10px;
+    border-radius:30px;
+    font-size: 15px;
+    
+}
+h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+}
+button {
+    width: 120px;
+    height: 30px;
+    border-radius: 20px;
+    background-color:rgb(70, 70, 70) ;
+    color:white;
+    position: absolute;
+    left: 50%;
+    top:85%;
+    transform: translate( -50%, -50%);
+
+}
+h2 {
+    color:white;
+    position:absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+}
+body {
+    background-color:#2e2b2b;
+    
+}
+.signIn {
+    position: absolute;
+    top:-2px;
+
+}
+.logIn {
+    position: absolute;
+    top: 165px;
+    padding: 5px;
+    font-style: italic;
+    color: white;
+
+}
+a {
+    color: rgb(255, 255, 255);
+}
+.rectangle {
+    align-content: center;
+    background: rgb(11, 9, 9);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height:50px;
+    
+}
+.Home {
+    font-size: 25px;
+    padding: 20px;
+}
